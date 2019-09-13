@@ -7,7 +7,7 @@ def main():
 
 def random_cat():
     # Api que exiibe imagens aleatorias de gatos
-    # https://aws.random.cat/meowhttps://aws.random.cat/meow
+    # https://aws.random.cat/meow
     import requests
     while True:
         print("1- Gerar uma imagem de gato aleatoria: \n"
